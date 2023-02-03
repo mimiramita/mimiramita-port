@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mimiramita/static/css/main.f9333d5a.css",
-    "main.js": "/mimiramita/static/js/main.7f31c4cc.js",
+    "main.js": "/mimiramita/static/js/main.571db16e.js",
     "static/js/787.5809834d.chunk.js": "/mimiramita/static/js/787.5809834d.chunk.js",
     "static/media/skills.jpeg": "/mimiramita/static/media/skills.e91a16e514ec169536a7.jpeg",
     "static/media/SummerResearchPoster.jpg": "/mimiramita/static/media/SummerResearchPoster.3f32d8733c2b19d47c66.jpg",
@@ -39,11 +39,11 @@
     "static/media/curveline.svg": "/mimiramita/static/media/curveline.992232539ce0704518a93c5c9dd96b0a.svg",
     "index.html": "/mimiramita/index.html",
     "main.f9333d5a.css.map": "/mimiramita/static/css/main.f9333d5a.css.map",
-    "main.7f31c4cc.js.map": "/mimiramita/static/js/main.7f31c4cc.js.map",
+    "main.571db16e.js.map": "/mimiramita/static/js/main.571db16e.js.map",
     "787.5809834d.chunk.js.map": "/mimiramita/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9333d5a.css",
-    "static/js/main.7f31c4cc.js"
+    "static/js/main.571db16e.js"
   ]
 }
